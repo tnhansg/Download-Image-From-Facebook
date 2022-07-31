@@ -1,6 +1,6 @@
 # Không Có Hướng Dẫn Cách Dùng Đâu Nên Tự Mò Đi Nhé:3
 ===========================================================================
-<h1 align="center">I'm Nhân</h1>
+<h1 align="center">I'm Nhan</h1>
 
 
 <h3 align="center">Some Of My Personal Information
@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnhanfa&style=for-the-badge" alt="tnhanfa" /> </p> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnhansg&color=red&style=plastic" alt="tnhansg" /> </p> </p>
 
 
 - ✨ My name is - **Nguyen Thien Nhan**
@@ -19,7 +19,6 @@
 
 - 💬 Interests - **Read stories and listen to music**
 
-- 📫 Reach me - [**Facebook**](https://www.facebook.com/tnhantl) or [**Email**](mailto:contact@thiennhan.studio) 
 
 
 
@@ -47,6 +46,7 @@
 
 
 </p>
+
 
 
 
